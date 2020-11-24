@@ -24,5 +24,20 @@ Here are some ideas to get you started:
 
 <p>My name is Thiago Pereira, i'm a brazilian student 📖, web development and python 💻, in my free time enjoy games 🎮.</p>
 
-- 🌱 I’m currently learning JS, Python.
+- 🌱 I’m currently learning JS, Python, PHP, MySQL.
 - 💬 Ask me about, i can help.
+
+---
+
+### Languages: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&layout=compact&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats)
