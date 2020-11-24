@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&layout=compact&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats)
