@@ -39,6 +39,6 @@
   <img alt="top-langs" src="https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight" />
   <!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight) -->
 </p>
-<p>
+<p align="center">
   <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </p>
