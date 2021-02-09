@@ -11,17 +11,6 @@
 </a><br>
 </h1>
 
-<!--
-**ThiagoPereira232/ThiagoPereira232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
 <p>My name is Thiago Pereira, i'm a brazilian student 📖, web development and python 💻, in my free time enjoy games 🎮.</p>
 
 - 🌱 I’m currently learning JS, Python, PHP, MySQL.
@@ -40,7 +29,16 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 ---
+<p align="center">
+  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight" />
+  <!--   &layout=compact -->
+  <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats) -->
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats)
+<p align="center">
+  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight" />
+  <!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight) -->
+</p>
+<p>
+  <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+</p>
