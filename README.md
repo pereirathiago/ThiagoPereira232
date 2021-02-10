@@ -30,7 +30,7 @@
 
 ---
 <p align="center">
-  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight" />
+  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight&layout=compact" />
   <!--   &layout=compact -->
   <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats) -->
 </p>
