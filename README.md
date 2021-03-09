@@ -31,16 +31,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
 
 ---
-<p align="center">
-  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight&layout=compact" />
-  <!--   &layout=compact -->
-  <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira232&theme=tokyonight)](https://github.com/thiagopereira232/github-readme-stats) -->
-</p>
 
-<p align="center">
-  <img alt="top-langs" src="https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight" />
-  <!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagopereira232&show_icons=true&theme=tokyonight) -->
-</p>
-<p align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<p align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPereira232&theme=tokyonight&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=ThiagoPereira232&count_private=true&show_icons=true&theme=tokyonight&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+  <br>
+  <br>
+  <img width="800" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/
 </p>
