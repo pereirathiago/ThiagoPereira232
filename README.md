@@ -21,14 +21,7 @@
 ### Languages: 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
+
 
 <div text-align="justify">
   <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
@@ -38,6 +31,7 @@
    <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=java&logoColor=fff&labelColor=f89820" />
   <img src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=fff&labelColor=5c6bc0" />
   <img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=fff&labelColor=4B8BBE" />
+  <img src="https://img.shields.io/badge/VisualBasic-4B8BBE?style=for-the-badge&logo=visual&logoColor=fff&labelColor=4B8BBE" />
 </div>
 <br>
 
