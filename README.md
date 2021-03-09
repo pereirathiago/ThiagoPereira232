@@ -31,7 +31,7 @@
    <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=java&logoColor=fff&labelColor=f89820" />
   <img src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=fff&labelColor=5c6bc0" />
   <img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=fff&labelColor=4B8BBE" />
-  <img src="https://img.shields.io/badge/VisualBasic-4B8BBE?style=for-the-badge&logo=visual&logoColor=fff&labelColor=4B8BBE" />
+  <img src="https://img.shields.io/badge/VisualBasic-9932CC?style=for-the-badge&logo=visual&logoColor=fff&labelColor=4B8BBE" />
 </div>
 <br>
 
