@@ -56,6 +56,5 @@
   </a>
   <br>
   <br>
-  
-  <img width="800" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/
+  <img width="800" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 </p>
