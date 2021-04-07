@@ -13,7 +13,7 @@
 
 <p>My name is Thiago Pereira, i'm a brazilian student 📖, web development and python 💻, in my free time enjoy games 🎮.</p>
 
-- 🌱 I’m currently learning Python, PHP, Java, VB, C.
+- 🌱 I’m currently learning Python, PHP, Java, VB, C, C++, JavaWeb.
 - 💬 Ask me about, i can help.
 
 ---
