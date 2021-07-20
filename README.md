@@ -1,13 +1,10 @@
 <h1 align=center> Hi there 👋
 <br>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5542984255538">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
 <a target="_blank" href="https://www.instagram.com/thiagoo_pereira_/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="55px" src="/imgs/instagram.png" />
 </a>
 <a target="_blank" href="mailto:pereira.tp.thiago@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="40px" src="/imgs/mail.png" />
 </a><br>
 </h1>
 
