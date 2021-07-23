@@ -1,6 +1,7 @@
 <h1 align=center> Hi there 👋
 <br>
-<a target="_blank" href="https://www.instagram.com/thiagoo_pereira_/">
+<a target="_blank" href="https://www.instagram.com/_pereira.thiago
+/">
   <img align="left" alt="Instagram" width="55px" src="/imgs/instagram.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/thiago-tp-pereira/">
