@@ -3,6 +3,9 @@
 <a target="_blank" href="https://www.instagram.com/thiagoo_pereira_/">
   <img align="left" alt="Instagram" width="55px" src="/imgs/instagram.png" />
 </a>
+<a target="_blank" href="https://www.linkedin.com/in/thiago-tp-pereira/">
+  <img align="left" alt="LinkedIn" width="40px" src="/imgs/linkedin.png" />
+</a>
 <a target="_blank" href="mailto:pereira.tp.thiago@gmail.com">
   <img align="left" alt="Gmail" width="40px" src="/imgs/mail.png" />
 </a><br>
