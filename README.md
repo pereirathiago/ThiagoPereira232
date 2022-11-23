@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px"/>
 
 # 💫 About Me:
 📖 I'm a brazilian student<br>
