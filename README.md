@@ -1,13 +1,15 @@
+<h1 align=center> Hi there 👋 </h1>
+
+My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas of programming (Full Stack Web Developer 🌐, Mobile Developer 📱, Game Developer 🕹 and Desktop developer 💻)
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px"/>
 
-# 💫 About Me:
-📖 I'm a brazilian student<br>
-💻 I'm developer: desktop, mobile, web and games.<br>
+## 💫 More About Me:
 🌱 I’m currently learning CSharp, Flutter and JS.<br>
 💻 Main languages: Python, JavaScript;<br>
 💬 Ask me about anything tech related, I am happy to help;<br>
 👨‍💻 Most of my projects are available on Github.<br>
-🎮 In my free time enjoy games
+🎮 In my free time enjoy games, movies and series.
 
 
 ## 🌐 Socials:
@@ -15,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pereira.thiago) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-pereiradev) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -52,7 +54,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThiagoPereira232&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPereira232&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPereira232&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
