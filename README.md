@@ -8,14 +8,15 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 🌱 I’m currently learning CSharp, Flutter and JS.<br>
 💻 Main languages: Python, JavaScript;<br>
 💬 Ask me about anything tech related, I am happy to help;<br>
-👨‍💻 Most of my projects are available on Github.<br>
+👨‍💻 Most of my projects are available on [Github](https://github.com/ThiagoPereira232?tab=repositories).<br>
 🎮 In my free time enjoy games, movies and series.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg///thiago#6669) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pereira.thiago) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-pereiradev) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg///thiago#6669) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_pereira.thiago) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-pereiradev) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereira.tp.thiago@gmail.com) 
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
