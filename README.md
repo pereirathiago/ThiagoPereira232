@@ -74,11 +74,14 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 
   
 ## 📊 GitHub Stats:
+<div align="center">
+            
 ![](https://github-readme-stats.vercel.app/api?username=ThiagoPereira232&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPereira232&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPereira232&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
-#### 😂 Random Dev Meme
+### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
