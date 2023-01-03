@@ -5,7 +5,7 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px"/>
 
 ## 💫 More About Me:
-🌱 I’m currently learning CSharp, Flutter and JS.<br>
+🌱 I’m currently learning Flutter, JS and CSharp.<br>
 💻 Main languages: C#, JavaScript, Flutter;<br>
 💬 Ask me about anything tech related, I am happy to help;<br>
 👨‍💻 Most of my projects are available on [Github](https://github.com/ThiagoPereira232?tab=repositories).<br>
