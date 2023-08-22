@@ -6,7 +6,7 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 
 ## 💫 More About Me:
 🌱 I’m currently learning Flutter, JS and CSharp.<br>
-💻 Main languages: C#, JavaScript, Flutter;<br>
+💻 Main languages: ReactJS, Flutter, NodeJS;<br>
 💬 Ask me about anything tech related, I am happy to help;<br>
 👨‍💻 Most of my projects are available on [Github](https://github.com/ThiagoPereira232?tab=repositories).<br>
 🎮 In my free time enjoy games, movies and series.
