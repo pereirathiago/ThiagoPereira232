@@ -5,10 +5,10 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ThiagoPereira232/ThiagoPereira232/main/imgs/Code%20typing.gif" width="360px"/>
 
 ## 💫 More About Me:
-🌱 I’m currently learning Flutter, JS and CSharp.<br>
-💻 Main languages: ReactJS, Flutter, NodeJS;<br>
+🌱 I’m currently learning React, ReactNative, Flutter.<br>
+💻 Main languages: NodeJS, ReactJS, Flutter;<br>
 💬 Ask me about anything tech related, I am happy to help;<br>
-👨‍💻 Most of my projects are available on [Github](https://github.com/ThiagoPereira232?tab=repositories).<br>
+👨‍💻 Most of my projects are available on [Github](https://github.com/pereirathiago?tab=repositories).<br>
 🎮 In my free time enjoy games, movies and series.
 
 
@@ -21,9 +21,10 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 ## 💻 Tech Stack:
 
 ### Main Stacks
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ---
@@ -45,6 +46,7 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ---
 ### DataBase Stacks
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -52,6 +54,7 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ---
 ### Mobile Stacks
+![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ---
@@ -83,8 +86,8 @@ My name is Thiago Pereira, I'm a brazilian student 📖, I play in various areas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pereirathiago&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!--### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=ThiagoPereira232&icon=2&color=0)](https://visitcount.itsvg.in) -->
